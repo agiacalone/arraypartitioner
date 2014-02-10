@@ -1,0 +1,84 @@
+Output for Assignment 2:
+
+Now, enter a test value: 
+17
+
+Input Array: 
+28 26 25 11 16 12 24 29 6 10
+
+Output Array: 
+10 6 12 11 16 25 24 29 26 28
+
+Partition Index: 
+4
+
+----------------------
+
+Now, enter a test value: 
+17
+
+Input Array: 
+28 26 25 11 16 18 2 34 24 12
+
+Output Array: 
+12 2 16 11 25 18 26 34 24 28
+
+Partition Index: 
+3
+
+----------------------
+
+Now, enter a test value: 
+10
+
+Input Array: 
+5 5 5 5 5 5 5 5 5 5
+
+Output Array: 
+5 5 5 5 5 5 5 5 5 5
+
+Partition Index: 
+9
+
+-------------------------
+
+Now, enter a test value: 
+-45
+
+Input Array: 
+5 5 5 5 5 5 5 5 5 5
+
+Output Array: 
+5 5 5 5 5 5 5 5 5 5
+
+Partition Index: 
+-1
+
+------------------------
+
+Now, enter a test value: 
+3
+
+Input Array: 
+67 2 89 4 3 22 265 4 32 7
+
+Output Array: 
+3 2 89 4 67 22 265 4 32 7
+
+Partition Index: 
+1
+
+------------------------
+
+Now, enter a test value: 
+5
+
+Input Array: 
+9 8 7 6 5 1 2 3 4 5
+
+Output Array: 
+5 4 3 2 5 1 6 7 8 9
+
+Partition Index: 
+5
+
